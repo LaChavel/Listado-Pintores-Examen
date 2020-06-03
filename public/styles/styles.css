@@ -1,0 +1,61 @@
+@font-face{
+    font-family: letra;
+    src: url(letra.ttf);
+}
+
+@font-face{
+    font-family: letra00;
+    src: url(letra00.ttf);
+}
+
+body{
+    background-image: url(/images/fondo.jpg);
+}
+
+h1{
+    font-family: letra;
+    text-align: center;
+    color: aliceblue;
+    font-size: 200%;
+}
+
+p{
+    font-family: letra00;
+    text-align: center;
+    color: aliceblue;
+    font-size: 200%;
+}
+
+.topp{
+    font-family: letra;
+    color: aliceblue;
+    font-size: 250%;
+    text-align: center;
+    background-image: url(/images/fondo00.jpg);
+}
+
+td{
+    font-family: letra00;
+    color: rgba(239, 240, 241, 0.822);
+    font-size: 150%;
+    text-align: center;
+}
+
+table{
+    margin: 0 auto;
+    background-color: rgba(32, 72, 248, 0.774);
+    
+}
+ 
+img{
+    display:block;
+    margin:auto;
+}
+
+.f{
+    background-image: url(/images/fondo00.jpg);
+}
+
+
+
+
