@@ -9,7 +9,7 @@
   "author": "Vanessa Isabel Gutiérrez Becerra",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "hbs": "^4.1.1",
     "mongoose": "^5.9.17"
   }
